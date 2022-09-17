@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Rainy-Heights</title>
+    <link href="learn.css" rel="stylesheet">
+</head>
+<body>
+<label class="switch" style="display: none;" onchange="switchFixed()">
+    <script type="text/javaScript">
+        function switchFixed(){
+            var value = document.getElementById('side').style.position === 'fixed' ? 'absolute' : 'fixed';
+            document.getElementById('side').style.position = value;
+        }
+    </script>
+    <input id="cb" type="checkbox">
+    <span class="slider round"></span>
+</label>
+<ul>
+    <li>
+        <label>前端</label>
+        <span>React、jQuery、微信小程序、Bootstrap、SASS、LESS</span>
+    </li>
+    <li>
+        <label>后端</label>
+        <span>Node.js、MySQL、MongoDB、WordPress、ThinkPHP</span>
+    </li>
+    <li>
+        <label>其他</label>
+        <span>Git、SVN、Markdown</span>
+    </li>
+</ul>
+<a href="https://www.bilibili.com/video/BV1CL4y1i7qR?spm_id_from=333.337.search-card.all.click&vd_source=8cc0359d5865de46dee3e5180829f930">
+<h2>
+    <div>
+        <footer>
+            这是一个Javaweb的学习网址
+        </footer>
+
+    </div>
+</h2>
+</a>
+<form >
+    <hr>
+    <h1>
+        详细的关键文段
+    </h1>
+</form>
+<a href="learn.css">
+    详细的css文件请点击这里
+</a>
+<h3>
+    <form >
+        <hr>
+        分界线
+    </form>
+</h3>
+<hr>-----这是相应的注解，这是添加下划线的html操作-----
+<div>
+
+    <label>
+        登录账号:
+    </label>
+    <input id="输入1" type="text" placeholder="欢迎注册！！">
+</div>
+<div>
+
+    <label>登录密码：</label>
+    <input id="输入2" type="=password" placeholder="请输入密码！！">
+</div>
+<div>
+    <button id="密码">
+        点击登录:
+    </button>
+</div>
+</body>
+</html>

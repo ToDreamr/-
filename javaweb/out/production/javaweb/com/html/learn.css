@@ -1,0 +1,30 @@
+body{
+    background-image: url(http://www.elias.ltd/bingimg/bingimg.php);
+    background-size: 100%;
+    background-position: top center;
+
+    text-align: center;
+    margin-top: 0px;
+    font-family: 隶书;
+}
+#输入1{
+    background: cornflowerblue;
+    color: antiquewhite;
+    margin-top: 10px;
+    border: 0;
+    border-radius: 10px;
+}
+#输入2{
+      margin-top: 10px;
+    background: cornflowerblue;
+    border: 0;
+    border-radius: 10px;
+}
+#登录{
+    border: 0;
+    margin-top: 200px;
+    color: coral;
+    background: aquamarine;
+    border-radius: 10px;
+
+}

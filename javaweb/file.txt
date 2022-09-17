@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">//有了这个才能解读中文�?
+    <title>RestLife</title>
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+<div id="outer">
+    <div id="inner">
+
+    <div>
+</div>
+<footer>小时候光�?脚都敢往外横冲直撞，长大后穿�?鞋每走一步都小心翼翼�?</footer>
+<data>
+</data>
+<img id="f" width="500" src="name.jpg" alt="name of xlw">
+
+<div>
+    Love you so crazy you dream.
+</div>
+<img src="1.png" width="500">
+
+
+        <div>
+            来时遥遥无期，去时人后黄�?
+        </div>
+        <img src="双笙(陈元�?)c.jpg"width="500">
+<div>
+    <div>
+        没人在乎你�?�样在深夜痛哭，也没人在乎你辗转反侧的要熬几个秋�?
+    </div>
+    <img src="山海.png"width="500">
+    <div>
+        <div>
+            For time you're crying with emotional tears
+        </div>
+        <img src="紫罗兰永恒花�?-94533928-0.png"width="500">
+        <div>
+        <div>
+            I yearn for life, less is more.
+        </div>
+        <img src="黄泉の国-63323734-0.jpg"width="500">
+        <div>
+    <h1 id="fun"> 欢迎来到我的站点和频道，想获取更多内容请您完成下面的注册�?</h1>
+    <form>
+        <hr>
+              这是分界�?
+    </form>
+</div>
+<label>
+    账号:
+</label>
+<input id="i1" type="text" placeholder="Username...">
+<div>
+
+</div>
+<label>密码:</label>
+
+<input id="i2" type="password" placeholder="Password...">
+
+        <div>
+            <button >点击登录</button>
+        </div>
+
+        <div >
+
+            <br>
+            <a href="1.png">忘记密码</a>
+        </div>
+            <div >
+                <b>
+                    <a href="https://www.bilibili.com/video/BV1d14y1473u?spm_id_from=333.337.search-card.all.click&vd_source=8cc0359d5865de46dee3e5180829f930">更多信息请点击这�?</a>
+                </b>
+
+            </div>
+
+<div>"已经达到页面底层"</div>
+<div>不要再拉了啦，人家也是有底线的！�?</div>
+</body>
+</html>
